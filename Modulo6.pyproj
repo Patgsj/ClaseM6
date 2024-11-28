@@ -1,0 +1,131 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>7003a3ae-ac71-4143-878d-0ef3b231ea26</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>
+    </StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>Modulo6</Name>
+    <RootNamespace>Modulo6</RootNamespace>
+    <IsWindowsApplication>False</IsWindowsApplication>
+    <InterpreterId>Global|PythonCore|3.12</InterpreterId>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <InterpreterReference Include="Global|PythonCore|3.12" />
+    <InterpreterReference Include="Global|VisualStudio|envBootCamp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="mysite\" />
+    <Folder Include="mysite\dashboard\" />
+    <Folder Include="mysite\dashboard\migrations\" />
+    <Folder Include="mysite\dashboard\templates\" />
+    <Folder Include="mysite\dashboard\templates\dashboard\" />
+    <Folder Include="mysite\mysite\" />
+    <Folder Include="mysite\mysite\__pycache__\" />
+    <Folder Include="mysite\static\" />
+    <Folder Include="mysite\static\css\" />
+    <Folder Include="mysite\static\css\bootstrap\" />
+    <Folder Include="mysite\static\js\" />
+    <Folder Include="mysite\static\js\bootstrap\" />
+    <Folder Include="mysite\templates\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="mysite\dashboard\templates\dashboard\home.html" />
+    <Content Include="mysite\db.sqlite3" />
+    <Content Include="mysite\mysite\__pycache__\settings.cpython-312.pyc" />
+    <Content Include="mysite\mysite\__pycache__\urls.cpython-312.pyc" />
+    <Content Include="mysite\mysite\__pycache__\wsgi.cpython-312.pyc" />
+    <Content Include="mysite\mysite\__pycache__\__init__.cpython-312.pyc" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap-grid.css" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap-grid.css.map" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap-grid.min.css" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap-grid.min.css.map" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap-grid.rtl.css" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap-grid.rtl.css.map" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap-grid.rtl.min.css" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap-grid.rtl.min.css.map" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap-reboot.css" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap-reboot.css.map" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap-reboot.min.css" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap-reboot.min.css.map" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap-reboot.rtl.css" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap-reboot.rtl.css.map" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap-reboot.rtl.min.css" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap-reboot.rtl.min.css.map" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap-utilities.css" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap-utilities.css.map" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap-utilities.min.css" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap-utilities.min.css.map" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap-utilities.rtl.css" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap-utilities.rtl.css.map" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap-utilities.rtl.min.css" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap-utilities.rtl.min.css.map" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap.css" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap.css.map" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap.min.css" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap.min.css.map" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap.rtl.css" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap.rtl.css.map" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap.rtl.min.css" />
+    <Content Include="mysite\static\css\bootstrap\bootstrap.rtl.min.css.map" />
+    <Content Include="mysite\static\css\styles.css" />
+    <Content Include="mysite\static\js\bootstrap\bootstrap.bundle.js" />
+    <Content Include="mysite\static\js\bootstrap\bootstrap.bundle.js.map" />
+    <Content Include="mysite\static\js\bootstrap\bootstrap.bundle.min.js" />
+    <Content Include="mysite\static\js\bootstrap\bootstrap.bundle.min.js.map" />
+    <Content Include="mysite\static\js\bootstrap\bootstrap.esm.js" />
+    <Content Include="mysite\static\js\bootstrap\bootstrap.esm.js.map" />
+    <Content Include="mysite\static\js\bootstrap\bootstrap.esm.min.js" />
+    <Content Include="mysite\static\js\bootstrap\bootstrap.esm.min.js.map" />
+    <Content Include="mysite\static\js\bootstrap\bootstrap.js" />
+    <Content Include="mysite\static\js\bootstrap\bootstrap.js.map" />
+    <Content Include="mysite\static\js\bootstrap\bootstrap.min.js" />
+    <Content Include="mysite\static\js\bootstrap\bootstrap.min.js.map" />
+    <Content Include="mysite\templates\base.html" />
+    <Content Include="mysite\templates\home.html" />
+    <Content Include="mysite\templates\about.html" />
+    <Content Include="mysite\templates\contact.html" />
+    <Content Include="mysite\templates\login.html" />
+    <Content Include="mysite\templates\testimonials.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="mysite\dashboard\admin.py" />
+    <Compile Include="mysite\dashboard\apps.py" />
+    <Compile Include="mysite\dashboard\migrations\__init__.py" />
+    <Compile Include="mysite\dashboard\models.py" />
+    <Compile Include="mysite\dashboard\tests.py" />
+    <Compile Include="mysite\dashboard\urls.py" />
+    <Compile Include="mysite\dashboard\views.py" />
+    <Compile Include="mysite\dashboard\__init__.py" />
+    <Compile Include="mysite\manage.py" />
+    <Compile Include="mysite\mysite\asgi.py" />
+    <Compile Include="mysite\mysite\settings.py" />
+    <Compile Include="mysite\mysite\urls.py" />
+    <Compile Include="mysite\mysite\wsgi.py" />
+    <Compile Include="mysite\mysite\__init__.py" />
+    <Compile Include="mysite\mysite\views.py" />
+    <Compile Include="mysite\mysite\forms.py" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>
