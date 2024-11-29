@@ -14,6 +14,7 @@
     <RootNamespace>Modulo6</RootNamespace>
     <IsWindowsApplication>False</IsWindowsApplication>
     <InterpreterId>Global|PythonCore|3.12</InterpreterId>
+    <TestFramework>Pytest</TestFramework>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -35,12 +36,17 @@
     <Folder Include="mysite\dashboard\templates\dashboard\" />
     <Folder Include="mysite\mysite\" />
     <Folder Include="mysite\mysite\__pycache__\" />
+    <Folder Include="mysite\smartphone\" />
+    <Folder Include="mysite\smartphone\migrations\" />
+    <Folder Include="mysite\smartphone\templates\" />
+    <Folder Include="mysite\smartphone\templates\smartphone\" />
     <Folder Include="mysite\static\" />
     <Folder Include="mysite\static\css\" />
     <Folder Include="mysite\static\css\bootstrap\" />
     <Folder Include="mysite\static\js\" />
     <Folder Include="mysite\static\js\bootstrap\" />
     <Folder Include="mysite\templates\" />
+    <Folder Include="mysite\templates\general\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="mysite\dashboard\templates\dashboard\home.html" />
@@ -49,6 +55,7 @@
     <Content Include="mysite\mysite\__pycache__\urls.cpython-312.pyc" />
     <Content Include="mysite\mysite\__pycache__\wsgi.cpython-312.pyc" />
     <Content Include="mysite\mysite\__pycache__\__init__.cpython-312.pyc" />
+    <Content Include="mysite\smartphone\templates\smartphone\home.html" />
     <Content Include="mysite\static\css\bootstrap\bootstrap-grid.css" />
     <Content Include="mysite\static\css\bootstrap\bootstrap-grid.css.map" />
     <Content Include="mysite\static\css\bootstrap\bootstrap-grid.min.css" />
@@ -95,6 +102,7 @@
     <Content Include="mysite\static\js\bootstrap\bootstrap.min.js" />
     <Content Include="mysite\static\js\bootstrap\bootstrap.min.js.map" />
     <Content Include="mysite\templates\base.html" />
+    <Content Include="mysite\templates\general\base.html" />
     <Content Include="mysite\templates\home.html" />
     <Content Include="mysite\templates\about.html" />
     <Content Include="mysite\templates\contact.html" />
@@ -118,6 +126,14 @@
     <Compile Include="mysite\mysite\__init__.py" />
     <Compile Include="mysite\mysite\views.py" />
     <Compile Include="mysite\mysite\forms.py" />
+    <Compile Include="mysite\smartphone\admin.py" />
+    <Compile Include="mysite\smartphone\apps.py" />
+    <Compile Include="mysite\smartphone\migrations\__init__.py" />
+    <Compile Include="mysite\smartphone\models.py" />
+    <Compile Include="mysite\smartphone\tests.py" />
+    <Compile Include="mysite\smartphone\urls.py" />
+    <Compile Include="mysite\smartphone\views.py" />
+    <Compile Include="mysite\smartphone\__init__.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

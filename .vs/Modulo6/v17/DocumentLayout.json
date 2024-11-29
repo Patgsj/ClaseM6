@@ -1,7 +1,56 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\BootCamp\\ClaseM6\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7003A3AE-AC71-4143-878D-0EF3B231EA26}|Modulo6.pyproj|D:\\BootCamp\\ClaseM6\\mysite\\smartphone\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7003A3AE-AC71-4143-878D-0EF3B231EA26}|Modulo6.pyproj|solutionrelative:mysite\\smartphone\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7003A3AE-AC71-4143-878D-0EF3B231EA26}|Modulo6.pyproj|D:\\BootCamp\\ClaseM6\\mysite\\smartphone\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7003A3AE-AC71-4143-878D-0EF3B231EA26}|Modulo6.pyproj|solutionrelative:mysite\\smartphone\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7003A3AE-AC71-4143-878D-0EF3B231EA26}|Modulo6.pyproj|D:\\BootCamp\\ClaseM6\\mysite\\smartphone\\admin.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7003A3AE-AC71-4143-878D-0EF3B231EA26}|Modulo6.pyproj|solutionrelative:mysite\\smartphone\\admin.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7003A3AE-AC71-4143-878D-0EF3B231EA26}|Modulo6.pyproj|D:\\BootCamp\\ClaseM6\\mysite\\smartphone\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7003A3AE-AC71-4143-878D-0EF3B231EA26}|Modulo6.pyproj|solutionrelative:mysite\\smartphone\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7003A3AE-AC71-4143-878D-0EF3B231EA26}|Modulo6.pyproj|D:\\BootCamp\\ClaseM6\\mysite\\dashboard\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7003A3AE-AC71-4143-878D-0EF3B231EA26}|Modulo6.pyproj|solutionrelative:mysite\\dashboard\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7003A3AE-AC71-4143-878D-0EF3B231EA26}|Modulo6.pyproj|D:\\BootCamp\\ClaseM6\\mysite\\mysite\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7003A3AE-AC71-4143-878D-0EF3B231EA26}|Modulo6.pyproj|solutionrelative:mysite\\mysite\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7003A3AE-AC71-4143-878D-0EF3B231EA26}|Modulo6.pyproj|D:\\BootCamp\\ClaseM6\\mysite\\templates\\general\\base.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7003A3AE-AC71-4143-878D-0EF3B231EA26}|Modulo6.pyproj|solutionrelative:mysite\\templates\\general\\base.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7003A3AE-AC71-4143-878D-0EF3B231EA26}|Modulo6.pyproj|D:\\BootCamp\\ClaseM6\\mysite\\mysite\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7003A3AE-AC71-4143-878D-0EF3B231EA26}|Modulo6.pyproj|solutionrelative:mysite\\mysite\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7003A3AE-AC71-4143-878D-0EF3B231EA26}|Modulo6.pyproj|D:\\BootCamp\\ClaseM6\\mysite\\dashboard\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7003A3AE-AC71-4143-878D-0EF3B231EA26}|Modulo6.pyproj|solutionrelative:mysite\\dashboard\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7003A3AE-AC71-4143-878D-0EF3B231EA26}|Modulo6.pyproj|D:\\BootCamp\\ClaseM6\\mysite\\smartphone\\templates\\smartphone\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7003A3AE-AC71-4143-878D-0EF3B231EA26}|Modulo6.pyproj|solutionrelative:mysite\\smartphone\\templates\\smartphone\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7003A3AE-AC71-4143-878D-0EF3B231EA26}|Modulo6.pyproj|D:\\BootCamp\\ClaseM6\\mysite\\dashboard\\templates\\dashboard\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7003A3AE-AC71-4143-878D-0EF3B231EA26}|Modulo6.pyproj|solutionrelative:mysite\\dashboard\\templates\\dashboard\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7003A3AE-AC71-4143-878D-0EF3B231EA26}|Modulo6.pyproj|D:\\BootCamp\\ClaseM6\\mysite\\templates\\base.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7003A3AE-AC71-4143-878D-0EF3B231EA26}|Modulo6.pyproj|solutionrelative:mysite\\templates\\base.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +67,162 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "admin.py",
+              "DocumentMoniker": "D:\\BootCamp\\ClaseM6\\mysite\\smartphone\\admin.py",
+              "RelativeDocumentMoniker": "mysite\\smartphone\\admin.py",
+              "ToolTip": "D:\\BootCamp\\ClaseM6\\mysite\\smartphone\\admin.py",
+              "RelativeToolTip": "mysite\\smartphone\\admin.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-29T00:33:26.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "models.py",
+              "DocumentMoniker": "D:\\BootCamp\\ClaseM6\\mysite\\smartphone\\models.py",
+              "RelativeDocumentMoniker": "mysite\\smartphone\\models.py",
+              "ToolTip": "D:\\BootCamp\\ClaseM6\\mysite\\smartphone\\models.py",
+              "RelativeToolTip": "mysite\\smartphone\\models.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-28T23:54:25.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "urls.py",
+              "DocumentMoniker": "D:\\BootCamp\\ClaseM6\\mysite\\dashboard\\urls.py",
+              "RelativeDocumentMoniker": "mysite\\dashboard\\urls.py",
+              "ToolTip": "D:\\BootCamp\\ClaseM6\\mysite\\dashboard\\urls.py",
+              "RelativeToolTip": "mysite\\dashboard\\urls.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-28T23:36:08.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "views.py",
+              "DocumentMoniker": "D:\\BootCamp\\ClaseM6\\mysite\\smartphone\\views.py",
+              "RelativeDocumentMoniker": "mysite\\smartphone\\views.py",
+              "ToolTip": "D:\\BootCamp\\ClaseM6\\mysite\\smartphone\\views.py",
+              "RelativeToolTip": "mysite\\smartphone\\views.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-28T23:34:46.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "urls.py",
+              "DocumentMoniker": "D:\\BootCamp\\ClaseM6\\mysite\\mysite\\urls.py",
+              "RelativeDocumentMoniker": "mysite\\mysite\\urls.py",
+              "ToolTip": "D:\\BootCamp\\ClaseM6\\mysite\\mysite\\urls.py",
+              "RelativeToolTip": "mysite\\mysite\\urls.py",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-28T23:37:26.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "urls.py",
+              "DocumentMoniker": "D:\\BootCamp\\ClaseM6\\mysite\\smartphone\\urls.py",
+              "RelativeDocumentMoniker": "mysite\\smartphone\\urls.py",
+              "ToolTip": "D:\\BootCamp\\ClaseM6\\mysite\\smartphone\\urls.py",
+              "RelativeToolTip": "mysite\\smartphone\\urls.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-28T23:35:58.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "views.py",
+              "DocumentMoniker": "D:\\BootCamp\\ClaseM6\\mysite\\dashboard\\views.py",
+              "RelativeDocumentMoniker": "mysite\\dashboard\\views.py",
+              "ToolTip": "D:\\BootCamp\\ClaseM6\\mysite\\dashboard\\views.py",
+              "RelativeToolTip": "mysite\\dashboard\\views.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-28T23:34:39.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "home.html",
+              "DocumentMoniker": "D:\\BootCamp\\ClaseM6\\mysite\\smartphone\\templates\\smartphone\\home.html",
+              "RelativeDocumentMoniker": "mysite\\smartphone\\templates\\smartphone\\home.html",
+              "ToolTip": "D:\\BootCamp\\ClaseM6\\mysite\\smartphone\\templates\\smartphone\\home.html",
+              "RelativeToolTip": "mysite\\smartphone\\templates\\smartphone\\home.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-28T23:31:47.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "base.html",
+              "DocumentMoniker": "D:\\BootCamp\\ClaseM6\\mysite\\templates\\base.html",
+              "RelativeDocumentMoniker": "mysite\\templates\\base.html",
+              "ToolTip": "D:\\BootCamp\\ClaseM6\\mysite\\templates\\base.html",
+              "RelativeToolTip": "mysite\\templates\\base.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-28T16:12:12.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "settings.py",
+              "DocumentMoniker": "D:\\BootCamp\\ClaseM6\\mysite\\mysite\\settings.py",
+              "RelativeDocumentMoniker": "mysite\\mysite\\settings.py",
+              "ToolTip": "D:\\BootCamp\\ClaseM6\\mysite\\mysite\\settings.py",
+              "RelativeToolTip": "mysite\\mysite\\settings.py",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-28T16:10:00.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "home.html",
+              "DocumentMoniker": "D:\\BootCamp\\ClaseM6\\mysite\\dashboard\\templates\\dashboard\\home.html",
+              "RelativeDocumentMoniker": "mysite\\dashboard\\templates\\dashboard\\home.html",
+              "ToolTip": "D:\\BootCamp\\ClaseM6\\mysite\\dashboard\\templates\\dashboard\\home.html",
+              "RelativeToolTip": "mysite\\dashboard\\templates\\dashboard\\home.html",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-28T16:15:27.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "base.html",
+              "DocumentMoniker": "D:\\BootCamp\\ClaseM6\\mysite\\templates\\general\\base.html",
+              "RelativeDocumentMoniker": "mysite\\templates\\general\\base.html",
+              "ToolTip": "D:\\BootCamp\\ClaseM6\\mysite\\templates\\general\\base.html",
+              "RelativeToolTip": "mysite\\templates\\general\\base.html",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-28T16:11:55.332Z",
+              "EditorCaption": ""
             }
           ]
         }
